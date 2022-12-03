@@ -1,5 +1,5 @@
 # WQD7005-DATA-MINING-PROJECT
-This is a group Project in Data Mining Course at university of Malaya.
+This is a group Project in the Data Mining Course at university of Malaya.
 
 [Sales_Mining.csv](https://github.com/KAFSALAH/WQD7005-DATA-MINING-PROJECT/blob/main/Sales_Mining.csv) Is the complete dataset that we will apply data mining on.
 
